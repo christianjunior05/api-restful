@@ -1,7 +1,32 @@
 {
-    "data":{
-        "id": 1,
-        "language": "JavaScript",
-        "Categorie" : "Frontend"
+    "data":[
+    {
+        "id": 1,"language": "JavaScript", "Categorie" : "Frontend"
+    },
+    {
+        "id": 2, "language": "html", "Categorie" : "Frontend"
+    },
+
+    {
+        "id": 3,"language": "css", "Categorie" : "Frontend"
+    },
+      {
+        "id": 4,"language": "php", "Categorie" : "Backend"
+    },
+      {
+        "id": 5,"language": "Java", "Categorie" : "Backend"
+    },
+      {
+        "id": 6,"language": "python", "Categorie" : "Frontend"
+    },
+      {
+        "id": 7,"language": "JSQL", "Categorie" : "Backenend"
+    },
+      {
+        "id": 8,"language": "ruby", "Categorie" : "Backenend"
+    },
+      {
+        "id": 9,"language": "C#", "Categorie" : "Backend"
     }
+]
 }
